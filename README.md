@@ -3,3 +3,6 @@
 ###### Created 1/8/2021
 
 My favorite programming language is C++.
+
+> Work smarter, not harder.
+
