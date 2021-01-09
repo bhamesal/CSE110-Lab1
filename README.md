@@ -28,6 +28,8 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 Hover over any of the three headers at the top of the page for examples of section links.
 
+[This section link specifically takes you to the date of creation](https://github.com/bhamesal/bhamesal.github.io/blob/master/README.md#created-182021)
+
 **Relative Links:**
 
 [Here is a picture of the real me](Social.jpg)
