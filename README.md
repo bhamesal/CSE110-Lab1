@@ -25,3 +25,5 @@ git diff
 I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not as terrible of a resource as most people make it out to be.
 
 **Section Links:**
+
+require "User Page"
