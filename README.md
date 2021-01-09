@@ -4,7 +4,7 @@
 
 My favorite programming language is C++.
 
-WORK ~~HARDER~~ SMARTER
+**WORK ~~HARDER~~ SMARTER**
 
 > Work smarter, not harder.
 
