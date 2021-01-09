@@ -12,7 +12,7 @@ My favorite programming language is C++.
 
 For my first CSE 110 Lab assignment, I will be demoing each of the core Markdown contructs. Above are examples of quoting text, styling text, and headings. Below will include the rest of the constructs.
 
-####Quoting code:####
+**Quoting code:**
 
 ```
 git branch
@@ -26,7 +26,7 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 **Section Links:**
 
-
+Hover over text "Baban Hamesalh's User Page" for example of section link.
 
 **Relative Links:**
 
