@@ -51,3 +51,6 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 **Task Lists:**
 
+- [X] Buy groceries
+- [ ] Finish homework
+- [ ] \(Optional) Go for a walk
