@@ -30,7 +30,7 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 **Relative Links:**
 
-[Here is a picture of the real me](bhamesal/Social.jpg)
+[Here is a picture of the real me](Social.jpg)
 
 **Unordered Lists:**
 
