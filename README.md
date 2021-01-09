@@ -26,7 +26,7 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 **Section Links:**
 
-Hover over text "Baban Hamesalh's User Page" for example of section link.
+Hover over any of the three headers at the top of the page for examples of section links.
 
 **Relative Links:**
 
