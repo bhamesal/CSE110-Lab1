@@ -26,4 +26,23 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 **Section Links:**
 
-require "User Page"
+
+
+**Relative Links:**
+
+
+
+**Unordered Lists:**
+
+-Albert Einstein
+-Isaac Newton
+-Thomas Edison
+
+**Ordered Lists:**
+
+1. Potato
+2. Tomato
+3. Avocado
+
+**Task Lists:**
+
