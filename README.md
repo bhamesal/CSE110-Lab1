@@ -44,5 +44,10 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 2. Tomato
 3. Avocado
 
+**Nested List:**
+1. Chapter 1
+   - Section 3
+     - Part 2
+
 **Task Lists:**
 
