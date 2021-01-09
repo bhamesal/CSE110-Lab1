@@ -34,9 +34,9 @@ I personally think [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) is not a
 
 **Unordered Lists:**
 
--Albert Einstein
--Isaac Newton
--Thomas Edison
+- Albert Einstein
+- Isaac Newton
+- Thomas Edison
 
 **Ordered Lists:**
 
